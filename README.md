@@ -14,7 +14,7 @@ can use ` > `, ` § `, `: `, or anything else you like.
 
 ## Screenshot
 
-![screenshot](overview.png)
+![screenshot](overview2.png)
 
 
 ## Features
