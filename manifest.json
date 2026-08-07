@@ -3,7 +3,7 @@
   "name": "Section Link Formatter",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Renders '#' in section links as ' > ' in Live Preview's display mode.",
+  "description": "Renders '#' in section links as ' > ' or similar in Live Preview's display mode.",
   "author": "Machine Biology",
   "isDesktopOnly": false
 }
