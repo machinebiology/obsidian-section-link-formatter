@@ -12,6 +12,11 @@ Recipes: Bread
 ...matching Obsidian's Reading view — and the separator is configurable, so you
 can use ` > `, ` § `, `: `, or anything else you like.
 
+## Screenshot
+
+![screenshot](overview.png)
+
+
 ## Features
 
 - Shows the raw `[[File#Heading]]` text again when your cursor enters the link,
